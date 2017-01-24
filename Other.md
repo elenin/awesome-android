@@ -509,7 +509,8 @@
 [https://github.com/lisawray/fontbinding](https://github.com/lisawray/fontbinding)
 1. **DroidAwesome**  An android library to display FontAwesome Icons in any View or a MenuItem.    
 [https://github.com/Livin21/DroidAwesome](https://github.com/Livin21/DroidAwesome)
-
+1. **FontometricsLibrary** Android Library to use custom fonts with ease.             
+[https://github.com/Ishmeetsingh97/FontometricsLibrary](https://github.com/Ishmeetsingh97/FontometricsLibrary)
 
 
 ### <a name="OpenGL" id="OpenGL"></a>OpenGL
@@ -525,6 +526,8 @@
 [https://github.com/amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 
 ### <a name="Demo" id="Demo"></a>Demo
+1. **android-animated-menu-items** The example Android project of animated menu items in toolbar        
+[https://github.com/adonixis/android-animated-menu-items](https://github.com/adonixis/android-animated-menu-items)
 1. **Android-AOPExample** This is a simple example of Aspect Oriented Programming in Android              
 [https://github.com/android10/Android-AOPExample](https://github.com/android10/Android-AOPExample)
 1. **AndroidStudyDemo**  AndroidStudyDemo 为Android学习项目，将学习Android的过程中的收获都汇集于此。要求执行严格的编码规范。       
@@ -650,6 +653,10 @@
 
 
 ### <a name="App" id="App"></a>App
+1. **MusicStreamer**  A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.                     
+[https://github.com/harjot-oberai/MusicStreamer](https://github.com/harjot-oberai/MusicStreamer)
+1. **remusic** 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载                          
+[https://github.com/aa112901/remusic](https://github.com/aa112901/remusic)
 1. **Ghost** 微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide         
 [https://github.com/GeekGhost/Ghost](https://github.com/GeekGhost/Ghost)
 1. **banya**  An open resource for Douban API with NETEASY Music's UI.        
@@ -1025,3 +1032,5 @@
 [https://fabiomsr.github.io/from-java-to-kotlin/](https://fabiomsr.github.io/from-java-to-kotlin/)
 1. **DylanStepCount** Android精准计步器 http://blog.csdn.net/linglongxin24/article/details/52868803         
 [https://github.com/linglongxin24/DylanStepCount](https://github.com/linglongxin24/DylanStepCount)
+1. **hawk** Secure, simple key-value storage for Android              
+[https://github.com/orhanobut/hawk](https://github.com/orhanobut/hawk)

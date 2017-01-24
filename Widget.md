@@ -8,8 +8,6 @@
 [https://github.com/ZieIony/Carbon](https://github.com/ZieIony/Carbon)
 1. **MaterialEverywhere**  Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.    
 [https://github.com/antoniolg/MaterialEverywhere](https://github.com/antoniolg/MaterialEverywhere)
-1. **MaterialWidget** Android L design widget in Android 4.0 ~ 4.4.    
-[https://github.com/keithellis/MaterialWidget](https://github.com/keithellis/MaterialWidget)
 1. **MaterialTabs** Custom Tabs with Material Design effects. It requires 14+ API and android support v7 (Toolbar)    
 [https://github.com/neokree/MaterialTabs](https://github.com/neokree/MaterialTabs)
 1. **material-ripple**    Android L Ripple effect wrapper for Views    
@@ -20,7 +18,7 @@
 [https://github.com/ikimuhendis/LDrawer](https://github.com/ikimuhendis/LDrawer)
 1. **material-design-icons** Material Design icons by Google    
 [https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)
-1. **AndroidMaterialDesignToolbar** Android Sample Project with Material Design and Toolbar.    
+1. **AndroidMaterialDesignToolbar** Android Sample Project with Material Design and Toolbar. PROJECT IS NOT SUPPORTED!   
 [https://github.com/tekinarslan/AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar)
 1. **MaterialEditText**  EditText in Material Design    
 [https://github.com/rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
@@ -216,7 +214,8 @@
 [https://github.com/yanbober/AvatarLabelView](https://github.com/yanbober/AvatarLabelView)
 1. **LogcatTextView** A simple view to see logcat in your app                     
 [https://github.com/munix/LogcatTextView](https://github.com/munix/LogcatTextView)
-
+1. **MarqueeViewLibrary** 一个帮您快速实现跑马灯效果的library            
+[https://github.com/gongwen/MarqueeViewLibrary](https://github.com/gongwen/MarqueeViewLibrary)
 
 #### <a name="ImageView" id="ImageView"></a>ImageView
 1. **FrescoImageViewer**  Android full screen image viewer for Fresco library supporting "pinch to zoom" and "swipe to dismiss" gestures http://stfalcon.com                 
@@ -349,6 +348,11 @@
 [https://github.com/ChadCSong/ShineButton](https://github.com/ChadCSong/ShineButton)
 1. **RaiflatButton** A raised button that lowers down to 0dp of elevation     
 [https://github.com/rubensousa/RaiflatButton](https://github.com/rubensousa/RaiflatButton)
+1. **AnimShopButton** A shopping cart button with a telescopic displacement rotation animation ...一个带伸缩位移旋转动画的购物车按钮          
+[https://github.com/mcxtzhang/AnimShopButton](https://github.com/mcxtzhang/AnimShopButton)
+1. **Android-SwitchIcon** Google launcher-style implementation of switch (enable/disable) icon        
+[https://github.com/zagum/Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
+
 
 #### <a name="CheckBox" id="CheckBox"></a>CheckBox
 1. **AnimCheckBox**  AnimCheckBox    
@@ -470,6 +474,8 @@ And this project is not using the image file!
 [https://github.com/Ajian-studio/GALeafLoading](https://github.com/Ajian-studio/GALeafLoading)
 1. **GADownloading**  GADownloading      
 [https://github.com/Ajian-studio/GADownloading](https://github.com/Ajian-studio/GADownloading)
+1. **GABottleLoading**   Bezier storm（贝塞尔风暴）                                      
+[https://github.com/Ajian-studio/GABottleLoading](https://github.com/Ajian-studio/GABottleLoading)
 
 
 #### <a name="Menu" id="Menu"></a>Menu
@@ -757,8 +763,10 @@ And this project is not using the image file!
 [https://github.com/nikhilpanju/RecyclerViewEnhanced/](https://github.com/nikhilpanju/RecyclerViewEnhanced/)
 1. **CircleRecyclerView** the library is a loop RecyclerView, can show some effects when display       
 [https://github.com/kHRYSTAL/CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView)
-
-
+1. **epoxy** Epoxy is an Android library for building complex screens in a RecyclerView.    
+[https://github.com/airbnb/epoxy](https://github.com/airbnb/epoxy)
+1. **ShimmerRecyclerView** A custom recycler view with shimmer views to indicate that views are loading.       
+[https://github.com/sharish/ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)
 
 
 #### <a name="SearchView" id="SearchView"></a>SearchView
@@ -1177,6 +1185,10 @@ And this project is not using the image file!
 
 
 #### <a name="Other" id="Other"></a>Other
+1. **TagViewGroup** Android 仿小红书图片标签，实现了图片标签的动画，布局，水波纹，编辑等功能，还可以自定义 Tag。         
+[https://github.com/shellljx/TagViewGroup](https://github.com/shellljx/TagViewGroup)
+1. **EasyFlipView** A quick and easy flip view through which you can create views with two sides like credit cards, poker cards etc.          
+[https://github.com/wajahatkarim3/EasyFlipView](https://github.com/wajahatkarim3/EasyFlipView)
 1. **Thermometer** Android Thermometer Widget.       
 [https://github.com/kofigyan/Thermometer](https://github.com/kofigyan/Thermometer)
 1. **RMSwitch**  A simple and customizable two or three states Switch View         
@@ -1585,3 +1597,15 @@ And this project is not using the image file!
 [https://github.com/KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)
 1. **FreeDrawView** A View on which you can freely draw, customizing paint width, alpha and color, and take a screenshot of the content. Useful for note apps, signatures or free hand writing.             
 [https://github.com/RiccardoMoro/FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)
+1. **android-snowfall** Fully customizable implementation of "Snowfall View" on Android.                  
+[https://github.com/JetradarMobile/android-snowfall](https://github.com/JetradarMobile/android-snowfall)
+1. **PathAnimView** 用于做Path动画的自定义View。           
+[https://github.com/mcxtzhang/PathAnimView](https://github.com/mcxtzhang/PathAnimView)
+1. **TimelineView**  Customzable TimelineView for Android      
+[https://github.com/qapqap/TimelineView](https://github.com/qapqap/TimelineView)
+1. **SuperIndicator**  a superindicatorlibray for viewpager, banner  仿爱奇艺视频，腾讯视频，搜狐视频首页推荐位轮播图        
+[https://github.com/hejunlin2013/SuperIndicator](https://github.com/hejunlin2013/SuperIndicator)
+1. **QingtingBannerView** 仿蜻蜓FM轮播banner       
+[https://github.com/JeasonWong/QingtingBannerView](https://github.com/JeasonWong/QingtingBannerView)
+1. **ChatMessageView** Chat UI library for Android               
+[https://github.com/bassaer/ChatMessageView](https://github.com/bassaer/ChatMessageView)

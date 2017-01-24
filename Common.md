@@ -77,6 +77,9 @@
 [https://github.com/gfx/Android-Orma](https://github.com/gfx/Android-Orma) 
 1. **RushOrm**       Object-relational mapping for Android http://www.rushorm.com/
 [https://github.com/Stuart-campbell/RushOrm](https://github.com/Stuart-campbell/RushOrm)
+1. **DBFlow** A blazing fast, powerful, and very simple ORM android database library that writes database code for you.           
+[https://github.com/Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow) 
+ 
  
 
 ### <a name="Image_Loading" id="Image_Loading"></a>Image Loading
@@ -225,9 +228,14 @@
 [https://github.com/eschao/android-PageFlip](https://github.com/eschao/android-PageFlip)
 1. **CircularAnim** Android ripple animation helper, easy to create Circular Reveal. | Android水波动画帮助类，轻松实现View show/hide/startActivity()特效。(0.3.3)            
 [https://github.com/XunMengWinter/CircularAnim](https://github.com/XunMengWinter/CircularAnim)
+1. **Particle**  It's a cool animation which can use in splash or somewhere else.            
+[https://github.com/JeasonWong/Particle](https://github.com/JeasonWong/Particle)
+1. **RxAnimations** Repository for android animations Rx wrapper            
+[https://github.com/0ximDigital/RxAnimations](https://github.com/0ximDigital/RxAnimations)
+1. **android-slidingactivity**  Android library which allows you to swipe down from an activity to close it.            
+[https://github.com/klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity)
 
-
-
+  
 
 ### <a name="Network" id="Network"></a>Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
@@ -242,6 +250,8 @@
 [https://github.com/AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client)
 1. **http-request**    Java HTTP Request Library    
 [https://github.com/kevinsawicki/http-request](https://github.com/kevinsawicki/http-request)
+1. **android-upload-service**    Easily upload files (FTP / Multipart / Binary) in the background with progress indication notification. Supports OkHttp and Hurl stack. Can be extended with custom network layers and custom upload types    
+[https://github.com/gotev/android-upload-service](https://github.com/gotev/android-upload-service)
 1. **node-android**    Run Node.js on Android    
 [https://github.com/InstantWebP2P/node-android](https://github.com/InstantWebP2P/node-android)
 1. **android-lite-http** Arrow(LiteHttp) is a simple, intelligent and flexible HTTP client for Android.    

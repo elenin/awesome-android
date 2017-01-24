@@ -50,6 +50,8 @@
 [https://github.com/bluelinelabs/Conductor](https://github.com/bluelinelabs/Conductor)
 1. **Android-ZBLibrary**  Android快速开发框架，Android Studio、Eclipse多平台支持。MVP架构的Android开发框架，丰富的功能、简单的实现、详细的注释、规范的风格。      
 [https://github.com/TommyLemon/Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary)
+1. **Conductor**  A small, yet full-featured framework that allows building View-based Android applications         
+[https://github.com/bluelinelabs/Conductor](https://github.com/bluelinelabs/Conductor)
 
 #### <a name="Framework_Plugin" id="Framework_Plugin"></a>Plugin
 1. **DroidPlugin**   DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。    
@@ -88,6 +90,9 @@
 [https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
 1. **MagicaSakura**  MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme. http://app.bilibili.com           
 [https://github.com/Bilibili/MagicaSakura](https://github.com/Bilibili/MagicaSakura)  
+1. **Colorful** Colorful is a dynamic theme library allowing you to change your apps' color schemes easily.              
+[https://github.com/garretyoder/Colorful](https://github.com/garretyoder/Colorful)
+
 
 
 #### <a name="Framework_Hook" id="Framework_Hook"></a>Hook
@@ -113,3 +118,5 @@
 [https://github.com/jasonross/Nuwa](https://github.com/jasonross/Nuwa)
 1. **dexposed** dexposed enable 'god' mode for single android application.    
 [https://github.com/alibaba/dexposed](https://github.com/alibaba/dexposed)
+1. **xLua** xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc.                    
+[https://github.com/Tencent/xLua](https://github.com/Tencent/xLua)
